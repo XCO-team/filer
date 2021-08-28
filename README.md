@@ -10,3 +10,5 @@ for system codes
 fallow we
 #exit
 is for exit of program
+# search
+you can search file and delete importent files
